@@ -8,9 +8,9 @@
   },
   "repository": "jquense/dom-helpers",
   "license": "MIT",
-  "main": "lib/cjs/index.js",
-  "types": "lib/cjs/index.d.ts",
-  "module": "lib/esm/index.js",
+  "main": "output/cjs/index.js",
+  "types": "output/cjs/index.d.ts",
+  "module": "output/esm/index.js",
   "keywords": [
     "dom-helpers",
     "react-component",
